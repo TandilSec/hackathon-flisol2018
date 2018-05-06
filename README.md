@@ -18,4 +18,4 @@ Partimos de la información disponible en el sitio del [Sistema Unico de Movilid
 
 Ideas
 
-* XXX
+![Ideas](ideas.jpg)
