@@ -12,7 +12,7 @@ Los objetivos que se plantearon durante el hackaton fueron:
 
 ## Fuente de datos
 
-Partimos de la información disponible en el sitio del (Sistema Unico de Movilidad Ordenada)[http://www.gpssumo.com/]. La extraccion la realizamos mediante un (script)[script.sh] y posterior manipulacion de la informacion obtenida.
+Partimos de la información disponible en el sitio del [Sistema Unico de Movilidad Ordenada](http://www.gpssumo.com/). La extraccion la realizamos mediante un [script](script.sh) y posterior manipulacion de la informacion obtenida.
 
 ## Analisis
 
